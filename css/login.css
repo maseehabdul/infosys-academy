@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,600&display=swap');
+#box {
+    margin-top: 60px;
+    height: 30rem;
+    border-radius: 5px;
+    box-shadow: 2px 1px 2px 2px #22333b;
+    background-color: transparent;
+    opacity: 0.9;
+}
+
+.bd2 {
+    background-image: url("../image/pexels-krivec-ales-547114.jpg");
+    overflow: hidden;
+    background-size: cover;
+}
+
+label {
+    color: #03045e;
+    font-family: 'Poppins', sans-serif;
+}
+
+#box-items form input {
+    height: 40px;
+    border: none;
+    outline: none;
+    background-color: #22333b;
+    color: white;
+}
+
+.btn-submit {
+    border-radius: 10px;
+    margin: 0 auto;
+    color: white;
+    background-color: #457b9d;
+    outline: none;
+}
+
+.btn-submit:hover {
+    background: none;
+    color: #003554;
+}
+
+span {
+    color: #22333b;
+}
